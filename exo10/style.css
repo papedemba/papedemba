@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+h1{
+    margin-left: 40%;
+    
+}
+form{
+    background-color: none;
+    border:1px,solid,black;
+   
+    
+}
+#formu{
+    width: 40%;
+    height: 400px;
+    margin-left: 40%;
+    margin-top: 15%;
+    
+    
+}
+input{
+    width: 20%;
+    height: 50%;
+    border: black,2px;
+    
+}
